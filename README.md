@@ -40,7 +40,7 @@
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
  
-Решение:
+Решение:https://github.com/netology-code/sys-pattern-homework/commit/a2ddb8c9638aec00c3b6655dc3bfd70faf1b3c94
  
 ```
 ## Задание 2.
