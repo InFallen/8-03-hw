@@ -39,10 +39,10 @@
  13.Сделайте git push origin master.
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
- 
+```
 Решение: [First Commit](https://github.com/netology-code/sys-pattern-homework/commit/a2ddb8c9638aec00c3b6655dc3bfd70faf1b3c94)
  
-```
+
 ## Задание 2.
 ```
 1.Создайте файл .gitignore (обратите внимание на точку в начале файла), проверьте его статус сразу после создания.
@@ -51,9 +51,8 @@
 4.Сделайте коммит и пуш.
 
  В качестве ответа на задание добавьте ссылку на этот коммит в ваш md-файл с решением
- 
- Решение: [add gitignore] (https://github.com/netology-code/sys-pattern-homework/commit/eed05ff8c49306118e104c99b52aa7695ac03c40)
-```
+ ```
+ Решение: [add gitignore](https://github.com/netology-code/sys-pattern-homework/commit/eed05ff8c49306118e104c99b52aa7695ac03c40)
 ## Задание 3.
 ```
 1.Создайте новую ветку dev и переключитесь на нее.
@@ -64,4 +63,4 @@
 
 В качестве ответа на задание прикрепите ссылку на граф коммитов https://github.com/ВАШ_ЛОГИН/ВАШ_РЕПОЗИТОРИЙ/network в ваш md-файл с решением
 ```
-Решение: https://github.com/InFallen/8-03-hw/network
+Решение: [Add brach and test](https://github.com/InFallen/8-03-hw/network)
